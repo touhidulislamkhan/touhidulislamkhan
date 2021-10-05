@@ -5,7 +5,7 @@
 
 -  I'm a Front-End Developer
 -  I’m currently learning Backend Development
--  I’m looking forward to becoming a Softare Engineer
+-  I’m looking forward to becoming a Software Engineer
 -  2021 Goals: Learn Full Stack Development
 
 ### Connect with me:
